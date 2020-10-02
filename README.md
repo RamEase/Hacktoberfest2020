@@ -54,7 +54,8 @@ Copy the next template into your file, delete the boilerplate data and fill the 
 ---
 name: YOURNAME
 institution: INSTITUTION_NAME
-github:USERNAME
+github: USERNAME
+---
 ```
 
 _Do not use special characters in the template above._
